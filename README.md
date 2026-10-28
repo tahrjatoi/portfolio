@@ -24,20 +24,51 @@ I care about systems that are not only technically correct but also reliable, ma
 
 ## Featured Projects
 
-### 1. [AI Productivity Toolkit](https://github.com/tahrjatoi/ai-productivity-toolkit)
-A collection of AI-powered tools designed to improve personal productivity — including task prioritization, daily summaries, meeting notes, and focus planning.
+### 1. AI Productivity Toolkit
+**Status:** Active Development  
+**Repo:** [github.com/tahrjatoi/ai-productivity-toolkit](https://github.com/tahrjatoi/ai-productivity-toolkit)
 
-**Tech:** Python · LangChain · OpenAI / Grok APIs
+A collection of practical AI-powered tools that help developers and knowledge workers focus on high-leverage work.
 
-### 2. [Personal RAG Assistant](https://github.com/tahrjatoi/personal-rag-assistant)
-A lightweight Retrieval-Augmented Generation system that lets you chat with your own notes, documents, and knowledge base using local or cloud LLMs.
+**Key Features:**
+- Smart Task Prioritizer — ranks tasks by urgency, impact, and effort
+- Daily Brief Generator — creates focused morning summaries
+- Meeting Notes Cleaner — turns transcripts into structured action items
+- Focus Session Planner — generates realistic deep-work blocks
 
-**Tech:** Python · Vector Databases · RAG Pipelines · FastAPI
+**Tech Stack:** Python · LangChain · OpenAI / Grok APIs
 
-### 3. [AI Skill Tracker](https://github.com/tahrjatoi/ai-skill-tracker)
-A tool to track and visualize AI/ML learning progress, projects, and skill growth over time — built for deliberate practice and continuous improvement.
+---
 
-**Tech:** Python · Data Tracking · Visualization
+### 2. Personal RAG Assistant
+**Status:** Active Development  
+**Repo:** [github.com/tahrjatoi/personal-rag-assistant](https://github.com/tahrjatoi/personal-rag-assistant)
+
+A lightweight Retrieval-Augmented Generation system that lets you chat with your own notes, documents, and knowledge base.
+
+**Key Features:**
+- Ingest Markdown, TXT, and PDF files
+- Automatic chunking + embedding
+- Natural language querying with source citations
+- Works with OpenAI, Grok, or local models (Ollama)
+
+**Tech Stack:** Python · Vector Databases · RAG Pipelines · FastAPI-compatible design
+
+---
+
+### 3. AI Skill Tracker
+**Status:** Active Development  
+**Repo:** [github.com/tahrjatoi/ai-skill-tracker](https://github.com/tahrjatoi/ai-skill-tracker)
+
+A deliberate practice tool to track, visualize, and level up AI/ML skills over time.
+
+**Key Features:**
+- Define skills with progressive levels (Beginner → Expert)
+- Log practice sessions and projects
+- View progress over time
+- Exportable JSON data
+
+**Tech Stack:** Python · CLI · JSON-based tracking
 
 ---
 
